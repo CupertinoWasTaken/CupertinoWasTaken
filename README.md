@@ -6,5 +6,5 @@
 I'm Cupertino, but you can call me Cup, I'm a CS student.
 
 - :hammer_and_pick: Rust, Kotlin, Swift, Typescript/TSX and Lua/Luau
-- :books: Taking courses at Harvard's CS50x
+- :books: Taking courses at Harvard's CS50
 - :heart: Pronouns: he/him
