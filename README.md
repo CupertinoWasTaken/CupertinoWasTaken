@@ -1,10 +1,9 @@
-### Hi there! :wave:
+<h1 align="center">Meu nome é Cupertino!</h1>
+<h3 align="center">Apenas um Programador Full Stack e Designer que <i font="serif">ama</i> Rust</h3>
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=CupertinoWasTaken&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=CupertinoWasTaken&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+### Você não vai ver muitas commits aqui porquê eu:
+1. Raramente termino meus projetos paralelos.
+2. Sou muito perfecionista e só coloco no github quando acho que tá bom.
+3. Tenho pouco tempo.
 
-I'm Cupertino, but you can call me Cup, I'm a CS student.
-
-- :hammer_and_pick: Rust, Typescript/TSX and Lua/Luau
-- :books: Taking courses at Harvard's CS50
-- :heart: Pronouns: he/him
+**Se quiser saber mais sobre mim, não se esquece de dar uma olhada no [meu site](https://cupertino.vercel.app/)! 🖤💛🤍**
